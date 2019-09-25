@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Yo i'm Jess
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm pretty cool ngl
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:000032113@student.thomroth.ac.uk)
