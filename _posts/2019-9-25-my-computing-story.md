@@ -15,7 +15,4 @@ In the past I have programmed using the language of python, which was very easy 
 Honestly, I'm pretty sick at programming, even though I can't really remember python too well. I'm just so good that I could pick it up 
 easily again.
 
-## Contacting Me
-email: 000032113@student.thomroth.ac.uk
-
 ## The End
